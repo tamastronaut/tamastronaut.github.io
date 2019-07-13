@@ -1,9 +1,9 @@
 ---
 layout: home
 ---
-# About Theme
+# About
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Tam&aacute;s is a post-doctoral scholar in [Prof. Matthew Helgeson's lab](https://sites.engineering.ucsb.edu/~helgeson/) at [University of California, Santa Barbara](https://ucsb.edu).
 
 To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
 
