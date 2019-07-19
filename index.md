@@ -7,4 +7,6 @@ Tam&aacute;s is a post-doctoral scholar in [Prof. Matthew Helgeson's lab](https:
 
 He earned his doctoral degree under [Prof. Eric Furst](https://lem.che.udel.edu) at [University of Delaware](https://che.udel.edu).
 
+You can view his [curriculum vitae here](content/Prileszky_CV.pdf).
+
 He is currently the oldest he has ever been and was once the youngest human alive.
