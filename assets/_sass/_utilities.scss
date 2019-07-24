@@ -93,6 +93,14 @@
       border-color: mix($white, #dc4e41, 25%);
     }
   }
+  &_google-scholar {
+    background-color: #dc4e41;
+    color: $white !important;
+    &:hover {
+      background-color: mix($white, #dc4e41, 25%);
+      border-color: mix($white, #dc4e41, 25%);
+    }
+  }
   &_twitter {
     background-color: #55acee;
     color: $white !important;

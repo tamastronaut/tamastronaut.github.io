@@ -1,6 +1,6 @@
 # Site
 title: Tamás Prileszky, Ph.D.
-description: A science-man's website
+description: A scienceman's website
 url: https://www.tamasprileszky.com
 logo: logo.png                                        # Site logo
 locale: en_US
@@ -30,7 +30,7 @@ sass:
 
 # Social Links
 email:              tamasprileszky@gmail.com
-#google.plus:       username
+google.scholar:     BzOok_AAAAAJ
 twitter:            tamastensibly
 #facebook:          username
 github:             tamastronaut
